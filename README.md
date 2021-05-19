@@ -34,8 +34,7 @@
 |:---:|:---:|---|---|
 | 1 |	TrustWallet |	https://trustwallet.com/  | https://www.binancezh.cc/zh-CN/blog/421499824684901157  |
 | 2	| 麦子钱包(MathWallet) |	https://www.mathwallet.org/zh-cn/ | https://blog.mathwallet.xyz/?p=3895  |
-| 3	| SafePal Wallet | https://www.safepal.io/download | https://docs.safepal.io/safepal-app/how-to-create-a-safepal-software-wallet/ru-he-chuang-jian-safepal-ruan-jian-qian-bao |
-| 4 |	TokenPocket	| https://www.tokenpocket.pro/zh/ | https://mp.weixin.qq.com/s/xXjP_qAOF31f-mGauXl7Kw |
+| 3 |	TokenPocket	| https://www.tokenpocket.pro/zh/ | https://mp.weixin.qq.com/s/xXjP_qAOF31f-mGauXl7Kw |
 
 
 ## 准备BSC的开发环境

@@ -1,5 +1,7 @@
 # BSC Development Quick Reference Guide
 
+English | [简体中文](https://github.com/ObsidianLabs/bsc-dapp-tutorial#readme)
+
 ## Catalog
 - [Get Your BSC Wallet Ready](#Get-Your-BSC-Wallet-Ready)
     + [Using Browser Plugin Wallet](#Browser-Plugin-Wallet)

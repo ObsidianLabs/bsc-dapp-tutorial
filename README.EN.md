@@ -10,7 +10,7 @@ English | [简体中文](https://github.com/ObsidianLabs/bsc-dapp-tutorial#readm
     + [Develop locally with BSC Studio Desktop](#Develop-locally-with-BSC-Studio-Desktop)
     + [Develop online with BSC Studio Web](#Develop-online-with-BSC-Studio-Web)
 - [Connecting to BSC networks](#Connecting-to-BSC-networks)
-- [BSC BSC Smart Contract Development](#BSC-Smart-Contract-Development)   
+- [BSC Smart Contract Development](#BSC-Smart-Contract-Development)   
     + [Key Tools in BSC Development](#Key-Tools-in-BSC-Development)
     + [Creating Smart Contract Project](#Creating-Smart-Contract-Project)
     + [Contract Deployment and Interaction](#Contract-Deployment-and-Interaction)

@@ -46,12 +46,12 @@ BSC Studio 是一套功能强大且简便易用的BSC币安智能链图形化IDE
 
 桌面端包含完整的开发工具，适合从新手到资深团队等不同阶段的 BSC 开发者。用户可以前往[Github Repo](https://github.com/ObsidianLabs/BSC-Studio) 下载最新版的BSC Stduio桌面端软件，目前支持包括macOS，Linux和Windows在内的主流操作系统。
 安装
-* macOS: 双击打开 BSC-Studio-x.x.x.dmg 并将 BSC Studio 拖动到应用文件夹内
-* Linux: 双击打开 BSC-Studio-x.x.x.AppImage, *选择 Properties( => Permissions => Execute, 将 Allow executing file as progrom 选项打勾。关闭属性设置窗口并双击打开应用（不同的 Linux 发行版可能会有不同的安装方式*
-* Windows: 双击打开 BSC-Studio-x.x.x.exe。
+* macOS: 双击打开 `BSC-Studio-x.x.x.dmg` 并将 BSC Studio 拖动到应用文件夹内
+* Linux: 双击打开 `BSC-Studio-x.x.x.AppImage`, *选择 Properties( => Permissions => Execute, 将 Allow executing file as progrom 选项打勾。关闭属性设置窗口并双击打开应用（不同的 Linux 发行版可能会有不同的安装方式*
+* Windows: 双击打开 `BSC-Studio-x.x.x.exe`。
 准备环境依赖
 在正确安装 BSC Studio 并初次启动时，你将看到一个欢迎页面，这里有正常运行币安智能链 BSC 开发所需要的依赖，包括了 Docker，BSC Node 以及Truffle.
-* BSC Studio 使用[Docker](https://www.docker.com/) 来启动 BSC 节点和进行项目编译。如果你之前没有安装过 Docker，可以点击 Install Docker 按钮访问 Docker 官方网站并进行下载安装；
+* BSC Studio 使用[Docker](https://www.docker.com/) 来启动 BSC 节点和进行项目编译。如果你之前没有安装过 Docker，可以点击 *Install Docker* 按钮访问 Docker 官方网站并进行下载安装；
 * [BSC Docker Hub](https://hub.docker.com/repository/docker/obsidians/bsc)存储着BSC 节点镜像，BSC Studio 使用这个镜像来运行 BSC 节点；
 * [BSC Truffle](https://hub.docker.com/repository/docker/obsidians/truffle) BSC Studio 使用Truffle工具包进行项目的创建和编译。
 

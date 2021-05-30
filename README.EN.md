@@ -3,6 +3,7 @@
 English | [简体中文](https://github.com/ObsidianLabs/bsc-dapp-tutorial#readme)
 
 ## Catalog
+- [About Binance Smart Chain](#About-Binance-Smart-Chain)
 - [Get Your BSC Wallet Ready](#Get-Your-BSC-Wallet-Ready)
     + [Using Browser Plugin Wallet](#Browser-Plugin-Wallet)
     + [Using Wallet App](#Wallet-App)
@@ -15,6 +16,11 @@ English | [简体中文](https://github.com/ObsidianLabs/bsc-dapp-tutorial#readm
     + [Creating Smart Contract Project](#Creating-Smart-Contract-Project)
     + [Contract Deployment and Interaction](#Contract-Deployment-and-Interaction)
 - [Developing a complete Dapp](#Developing-a-complete-Dapp)
+
+## About Binance Smart Chain
+Binance Smart Chain (BSC) is a sovereign smart contract blockchain delivering Ethereum Virtual Machine (EVM) compatible programmability and running parallel with Binance Chain. By introducing the Proof of Stake Authority (PoSA) consensus mechanism, BSC has created an ecosystem that allows nodes, token holders, developers, and users to benefit from the blockchain. 
+
+This article is a quick start guide for BSC developers, hoping to provide developers with help.
 
 ## Get Your BSC Wallet Ready
 In the blockchain world, digital wallet is not the actual container for cryptocurrencies. Rather, it stores pairs of encryption keys that represents ownership at certain address. Each pair of keys stored in digital wallets consists of a public key that is needed to initiate transactions and a matching private key for transaction encryptions and decryptions. Therefore, ownership of keypairs confers full control of the cryptocurrencies at the address associated to the keypairs. In development stage, we create randomized keypairs and a piece of address information through our digital wallet, with which we are able to receive from or send to cryptocurriencies to others. And this is why we have to get our wallet ready for development. 

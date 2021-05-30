@@ -1,6 +1,6 @@
 # BSC 快速开发指南
 
-简体中文 | English (work in progress)
+简体中文 | [English](https://github.com/ObsidianLabs/bsc-dapp-tutorial/blob/master/README.EN.md)
 
 ## 目录 
 - [关于币安智能链 BSC](#关于币安智能链-BSC)

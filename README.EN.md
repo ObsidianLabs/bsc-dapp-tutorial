@@ -120,8 +120,8 @@ BSC Studio integrates a few smart contract template. You may create your first s
 ### Contract Deployment and Interaction
 
 BSC Studio offers one-click automated process to
-1. [Contract Deployment](https://github.com/ObsidianLabs/BSC-Studio#部署智能合约项目)
-2. [Contract Interaction](https://github.com/ObsidianLabs/BSC-Studio#调用合约)
+1. [Contract Deployment](https://github.com/ObsidianLabs/BSC-Studio#Deploy-Smart-Contract-Project)
+2. [Contract Interaction](https://github.com/ObsidianLabs/BSC-Studio#Call-the-Contract)
 
 Click to view corresponding tutorials on our Github.
 

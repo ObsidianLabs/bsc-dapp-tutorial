@@ -35,7 +35,7 @@ Browser plugin wallet is the most popular choice in blockchain development. It's
 |  1  |  MetaMask  |  https://metamask.io/  | https://docs.binance.org/smart-chain/wallet/metamask.html  |
 |  2  |  Binance Chain Wallet | https://chrome.google.com/webstore/detail/binance-chain-wallet/fhbohimaelbohpjbbldcngcnapndodjp?hl=en  | https://binance-wallet.gitbook.io/binance-chain-extension-wallet/
 
-*Please note*，**Binance Chain Wallet**  supports both **Binance Chain** and ***Binance Smart Chain(BSC)** and they're two distinctive blockchains that sometimes confuses people.
+*Please note*，**Binance Chain Wallet**  supports both **Binance Chain** and **Binance Smart Chain(BSC)** and they're two distinctive blockchains that sometimes confuses people.
 
 ### Wallet App 
 When a smart contract goes live, most of its users access it through a wallet app of their choice.
@@ -93,7 +93,7 @@ BSC Studio has BSC mainnet and testnet connection preconfigured in the applicati
 BSC offers block explorer apps for network and on-chain information inquiry, Click to access [Testnet Explorer - testnet.bscscan.com](https://testnet.bscscan.com/) or [Mainnet Explorer - bscscan.com](https://bscscan.com/).
 
 ### BSC Data Solution
-If you're no longer satisfied with the chain's speed in sync as a result of scalability limited by native nodes, StreamingFast offers an alternative streaming solution with full history for those who wants to get real-time updates of contracts, account balances, AMM prices or sync their local database, with speed 50x faster than nodes. Available to everyone for free at [StreamingFast.io]https://streamingfast.io
+If you're no longer satisfied with the chain's speed in sync as a result of scalability limited by native nodes, StreamingFast offers an alternative streaming solution with full history for those who wants to get real-time updates of contracts, account balances, AMM prices or sync their local database, with speed 50x faster than nodes. Available to everyone for free at [StreamingFast.io](https://streamingfast.io)
 
 ### Faucet
 Developers often needs tokens when developing on BSC Testnet to play with contract or to make transactions. BSC Testnet offers [Faucet](https://testnet.binance.org/faucet-smart) service to acquire free testnet tokens， of course BSC Studio also integrates [Faucet Functionality](https://github.com/ObsidianLabs/BSC-Studio#faucet) in the toolbar for easier invocation to faucet tokens.

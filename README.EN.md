@@ -112,7 +112,7 @@ Solc is command line compiler for Solidity. It compiles smart contract code writ
 Based on Ethereum Yellow Paper, anyone are allowed to construct their Ethereum node with a programming language of their choice, however the most popular clients so far go to **Geth** and **Parity**. The difference is mainly the language, where Geth is written in Golang while Parity is made of Rust. Between these two, Geth is more popular and thus is the client implementation we use here.
 BSC Client is a BSC client application based on Geth, where both our BSC nodes (Testnet/Mainnet) are running on it. We can also run our own BSC nodes and local development network with self-installed BSC client of our choice.
 
-**BSC Studio** has integrated all essentials development tools including Truffle, solc and BSC Client.
+**BSC Studio** has integrated all essentials development tools including Truffle, Solc and BSC Client.
 
 ### Creating Smart Contract Project
 BSC Studio integrates a few smart contract template. You may create your first smart contract project with a corresponding template and start building your smart contract instantly. Built-in templates include:

@@ -1,6 +1,6 @@
 # BNB Development Quick Reference Guide
 
-English | [简体中文](https://github.com/ObsidianLabs/BNB-dapp-tutorial#readme)
+English | [简体中文](https://github.com/ObsidianLabs/bsc-dapp-tutorial#readme)
 
 ## Catalog
 - [About BNB Chain](#About-Binance-Smart-Chain)

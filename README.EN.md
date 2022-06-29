@@ -18,7 +18,7 @@ English | [简体中文](https://github.com/ObsidianLabs/BNB-dapp-tutorial#readm
 - [Developing a complete dApp](#Developing-a-complete-dApp)
 
 ## About BNB Chain
-BNB Chain (BNB) is a sovereign smart contract blockchain delivering Ethereum Virtual Machine (EVM) compatible programmability and running parallel with Binance Chain. By introducing the Proof of Stake Authority (PoSA) consensus mechanism, BNB has created an ecosystem that allows nodes, token holders, developers, and users to benefit from the blockchain. 
+BNB Chain is a sovereign smart contract blockchain delivering Ethereum Virtual Machine (EVM) compatible programmability and that are composed of Binance Chain and Binance Smart Chain (BSC) . By introducing the Proof of Stake Authority (PoSA) consensus mechanism, BNB has created an ecosystem that allows nodes, token holders, developers, and users to benefit from the blockchain. 
 
 This article is a quick start guide for BNB developers, hoping to provide developers with help.
 
